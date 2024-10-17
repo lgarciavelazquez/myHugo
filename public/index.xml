@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Mi 1º sitio en Hugo</title>
+    <link>http://localhost:1313/myHugo/</link>
+    <description>Recent content on Mi 1º sitio en Hugo</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>es</language>
     <lastBuildDate>Thu, 17 Oct 2024 22:20:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myHugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Post</title>
-      <link>http://localhost:1313/posts/segundo-post/</link>
+      <link>http://localhost:1313/myHugo/posts/segundo-post/</link>
       <pubDate>Thu, 17 Oct 2024 22:20:41 +0200</pubDate>
-      <guid>http://localhost:1313/posts/segundo-post/</guid>
+      <guid>http://localhost:1313/myHugo/posts/segundo-post/</guid>
       <description>&lt;p&gt;Este es el segundo post&amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primer Post</title>
-      <link>http://localhost:1313/posts/primer-post/</link>
+      <link>http://localhost:1313/myHugo/posts/primer-post/</link>
       <pubDate>Thu, 17 Oct 2024 22:20:32 +0200</pubDate>
-      <guid>http://localhost:1313/posts/primer-post/</guid>
+      <guid>http://localhost:1313/myHugo/posts/primer-post/</guid>
       <description>&lt;p&gt;Este es el primer post&amp;hellip;..&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/myHugo/about/</link>
       <pubDate>Thu, 17 Oct 2024 20:19:59 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/myHugo/about/</guid>
       <description>&lt;p&gt;About us&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First item&lt;/li&gt;&#xA;&lt;li&gt;Second item&lt;/li&gt;&#xA;&lt;li&gt;Third item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
