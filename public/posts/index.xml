@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mi 1º sitio en Hugo</title>
-    <link>http://localhost:1313/myHugo/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Mi 1º sitio en Hugo</description>
     <generator>Hugo</generator>
     <language>es</language>
     <lastBuildDate>Thu, 17 Oct 2024 22:20:41 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/myHugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Post</title>
-      <link>http://localhost:1313/myHugo/posts/segundo-post/</link>
+      <link>http://localhost:1313/posts/segundo-post/</link>
       <pubDate>Thu, 17 Oct 2024 22:20:41 +0200</pubDate>
-      <guid>http://localhost:1313/myHugo/posts/segundo-post/</guid>
+      <guid>http://localhost:1313/posts/segundo-post/</guid>
       <description>&lt;p&gt;Este es el segundo post&amp;hellip;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Primer Post</title>
-      <link>http://localhost:1313/myHugo/posts/primer-post/</link>
+      <link>http://localhost:1313/posts/primer-post/</link>
       <pubDate>Thu, 17 Oct 2024 22:20:32 +0200</pubDate>
-      <guid>http://localhost:1313/myHugo/posts/primer-post/</guid>
+      <guid>http://localhost:1313/posts/primer-post/</guid>
       <description>&lt;p&gt;Este es el primer post&amp;hellip;..&lt;/p&gt;</description>
     </item>
   </channel>
