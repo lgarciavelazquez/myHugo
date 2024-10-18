@@ -1,17 +1,17 @@
-baseURL = 'https://lgarciavelazquez.github.io/'
+baseURL = 'https://lgarciavelazquez.github.io/myHugo'
 languageCode = 'es'
 title = 'Mi 1º sitio en Hugo'
 theme = "ananke"
 
 [menu]
 [[menu.main]]
-identifier = 'about'
-name = 'About us'
-url = '/about/'
+	identifier = 'about'
+	name = 'About us'
+	url = '/about/'
 [[menu.main]]
-identifier = 'posts'
-name = 'Posts'
-url = '/posts/'
+	identifier = 'posts'
+	name = 'Posts'
+	url = '/posts/'
 
 
 [params]
