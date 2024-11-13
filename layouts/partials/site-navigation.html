@@ -2,12 +2,13 @@
   <div class="flex-l justify-between items-center center">
     <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
       {{ with .Site.Params.site_logo }}
-       HOLA SITE-NAVIGATION  <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+       <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
       {{ else }}
         {{ .Site.Title }}
       {{ end }}
     </a>
     <div class="flex-l items-center">
+      HOLA SITE-NAVIGATION  
       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
