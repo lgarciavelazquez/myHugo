@@ -8,8 +8,7 @@
       {{ end }}
     </a>
     <div class="flex-l items-center">
-      HOLA SITE-NAVIGATION  
-      {{ partial "i18nlist.html" . }}
+       {{ partial "i18nlist.html" . }}
       {{ if .Site.Menus.main }}
         <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
@@ -25,3 +24,4 @@
     </div>
   </div>
 </nav>
+SITE-NAVIGATION
