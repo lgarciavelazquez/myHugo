@@ -1,7 +1,15 @@
-baseURL = 'https://lgarciavelazquez.github.io/myHugo'
+baseURL = 'https://lgarciavelazquez.github.io'
 languageCode = 'es'
 title = 'Mi 1º sitio en Hugo'
 theme = "ananke"
+
+#[[module.mounts]]
+#source = 'static'
+#target = 'static'
+
+#[[module.mounts]]
+#source = 'images'
+#target = 'static/images'
 
 [menu]
 [[menu.main]]
