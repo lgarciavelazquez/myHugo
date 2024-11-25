@@ -1,4 +1,5 @@
-baseURL = 'https://lgarciavelazquez.github.io/myHugo'
+baseURL = ''
+relativeURLs = true
 languageCode = 'es'
 title = 'Mi 1º sitio en Hugo'
 theme = "ananke"

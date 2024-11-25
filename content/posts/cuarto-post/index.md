@@ -7,3 +7,5 @@ draft: false
 Este es el cuarto post...
 
 ![blog](blog.jpg)
+
+![blog.....](blog.jpg)
