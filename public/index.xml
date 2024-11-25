@@ -27,7 +27,7 @@
       <link>http://localhost:1313/myHugo/about/</link>
       <pubDate>Thu, 17 Oct 2024 20:19:59 +0200</pubDate>
       <guid>http://localhost:1313/myHugo/about/</guid>
-      <description>&lt;p&gt;About us&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First item&lt;/li&gt;&#xA;&lt;li&gt;Second item&lt;/li&gt;&#xA;&lt;li&gt;Third item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;Esta es la pagina index en about antes &amp;hellip;..&lt;/p&gt;&#xA;&lt;p&gt;About us&lt;/p&gt;&#xA;&lt;p&gt;Esta es la pagina index en about despues &amp;hellip;..&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;First item&lt;/li&gt;&#xA;&lt;li&gt;Second item&lt;/li&gt;&#xA;&lt;li&gt;Third item&lt;/li&gt;&#xA;&lt;li&gt;Fourth item&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
